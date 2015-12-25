@@ -1,0 +1,55 @@
+MyFunction.o: MyFunction.c \
+ /home/thangle/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../arm-none-linux-gnueabi/libc/usr/include/stdio.h \
+ /home/thangle/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../arm-none-linux-gnueabi/libc/usr/include/features.h \
+ /home/thangle/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../arm-none-linux-gnueabi/libc/usr/include/stdc-predef.h \
+ /home/thangle/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/predefs.h \
+ /home/thangle/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/cdefs.h \
+ /home/thangle/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/wordsize.h \
+ /home/thangle/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../arm-none-linux-gnueabi/libc/usr/include/gnu/stubs.h \
+ /home/thangle/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../arm-none-linux-gnueabi/libc/usr/include/gnu/stubs-soft.h \
+ /home/thangle/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.7.3/include/stddef.h \
+ /home/thangle/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/types.h \
+ /home/thangle/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/typesizes.h \
+ /home/thangle/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../arm-none-linux-gnueabi/libc/usr/include/libio.h \
+ /home/thangle/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../arm-none-linux-gnueabi/libc/usr/include/_G_config.h \
+ /home/thangle/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../arm-none-linux-gnueabi/libc/usr/include/wchar.h \
+ /home/thangle/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.7.3/include/stdarg.h \
+ /home/thangle/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/stdio_lim.h \
+ /home/thangle/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sys_errlist.h \
+ /home/thangle/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/stdio.h
+
+/home/thangle/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../arm-none-linux-gnueabi/libc/usr/include/stdio.h:
+
+/home/thangle/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../arm-none-linux-gnueabi/libc/usr/include/features.h:
+
+/home/thangle/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../arm-none-linux-gnueabi/libc/usr/include/stdc-predef.h:
+
+/home/thangle/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/predefs.h:
+
+/home/thangle/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/cdefs.h:
+
+/home/thangle/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/wordsize.h:
+
+/home/thangle/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../arm-none-linux-gnueabi/libc/usr/include/gnu/stubs.h:
+
+/home/thangle/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../arm-none-linux-gnueabi/libc/usr/include/gnu/stubs-soft.h:
+
+/home/thangle/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.7.3/include/stddef.h:
+
+/home/thangle/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/types.h:
+
+/home/thangle/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/typesizes.h:
+
+/home/thangle/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../arm-none-linux-gnueabi/libc/usr/include/libio.h:
+
+/home/thangle/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../arm-none-linux-gnueabi/libc/usr/include/_G_config.h:
+
+/home/thangle/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../arm-none-linux-gnueabi/libc/usr/include/wchar.h:
+
+/home/thangle/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.7.3/include/stdarg.h:
+
+/home/thangle/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/stdio_lim.h:
+
+/home/thangle/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sys_errlist.h:
+
+/home/thangle/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_GNU_Linux/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/stdio.h:

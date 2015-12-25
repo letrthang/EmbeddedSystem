@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+environment/project/org.eclipse.linuxtools.cdt.autotools.core.configuration.build.249406207/CFLAGS/delimiter=\:
+environment/project/org.eclipse.linuxtools.cdt.autotools.core.configuration.build.249406207/CFLAGS/operation=replace
+environment/project/org.eclipse.linuxtools.cdt.autotools.core.configuration.build.249406207/CFLAGS/value=-O2  -mcpu\=arm926ej-s  -static
+environment/project/org.eclipse.linuxtools.cdt.autotools.core.configuration.build.249406207/CONFIGURE_FLAGS/delimiter=\:
+environment/project/org.eclipse.linuxtools.cdt.autotools.core.configuration.build.249406207/CONFIGURE_FLAGS/operation=append
+environment/project/org.eclipse.linuxtools.cdt.autotools.core.configuration.build.249406207/CONFIGURE_FLAGS/value=--build\=x86_64-linux  --host\=arm-none-linux-gnueabi  --target\=arm-none-linux-gnueabi  CROSS_COMPILE\=arm-none-linux-gnueabi-  ARCH\=arm
+environment/project/org.eclipse.linuxtools.cdt.autotools.core.configuration.build.249406207/CXXFLAGS/delimiter=\:
+environment/project/org.eclipse.linuxtools.cdt.autotools.core.configuration.build.249406207/CXXFLAGS/operation=replace
+environment/project/org.eclipse.linuxtools.cdt.autotools.core.configuration.build.249406207/CXXFLAGS/value=-O2  -mcpu\=arm926ej-s
+environment/project/org.eclipse.linuxtools.cdt.autotools.core.configuration.build.249406207/append=true
+environment/project/org.eclipse.linuxtools.cdt.autotools.core.configuration.build.249406207/appendContributed=true
