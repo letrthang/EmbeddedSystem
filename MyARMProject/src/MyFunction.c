@@ -12,5 +12,4 @@ int MyFunction()
 {
   printf("MyFunction in C\n");
   return 0 ;
-
 }
